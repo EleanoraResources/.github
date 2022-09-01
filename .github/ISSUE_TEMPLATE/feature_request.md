@@ -27,5 +27,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        You can also follow us on [Twitter](https://twitter.com/geteleanora)
-       Feel free to check out other cool repositories of the EleanoraResource Community [here](https://github.com/EleanoraResource)
+        You can also join us on [Twitter](https://twitter.com/Kumar_Sons_off)
+        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EleanoraResources)
