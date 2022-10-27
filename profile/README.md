@@ -13,11 +13,6 @@ Now you'll no longer need to search for the resouces to use into your project an
 
 We as developers, freelancers and contributors spend a lot of time searching for resources that could work better for different use cases in our project. I did a survey a while ago to see **"Max to max, How much overall time do have spend searching for resources and tools that best suit your project, your workflows!?"**
 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/88786642/188052236-89b74645-3883-4544-8a0b-ad7ad8268351.jpg"/>
-</p>
-
 Found that more than 40% developers spend more than 1-2 hours just on searching for resources and tools for their workflows. So we decide to collect the **most hardly searched** and the best resources from the community that could make it easier for others fellow folks.
 
 <!-- <h2 align="center">Our Pledge</h2>
