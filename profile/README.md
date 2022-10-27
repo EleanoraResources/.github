@@ -20,6 +20,5 @@ We decided to collect the **most hardly searched** and the top-notched resources
 
 We here are super inclusive group of people and welcome all type of contributions, share your best creation, that you think will help others. We support the best tools and resources selected by the community by featuring those on our  -->
 
-> _For any queries or support, feel free to raise an issue in out [support repo](https://github.com/EleanoraResources/support)!_
-
-> _To Join our GitHub Organization, raise an issue [here]()_
+> _For any queries or support, feel free to raise an issue in out [support repo](https://github.com/EleanoraResources/support)!_<br>
+> _To Join our GitHub Organization, raise an issue [here](https://github.com/EleanoraResources/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invite.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)_
