@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Eleanora</h1>
+<h1 align="center">Eleanora - ResourceHub</h1>
 <p align="center">
 Hey there, it's great to have you here. 🙃
 <br/>
